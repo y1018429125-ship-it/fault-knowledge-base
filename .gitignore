@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+env_fault/
+.venv/
+
+# Logs & PID
+*.log
+*.pid
+logs/
+
+# 临时文件
+temp.md
+
+# 字体文件（体积大，本地保留）
+fonts_new/
+
+# 业务数据与缓存（本地保留，U盘分发）
+故障报告/
+故障报告_WPS备份/
+pdf_cache/
+qdrant_db/
+src/qdrant_db/
